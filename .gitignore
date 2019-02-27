@@ -38,3 +38,5 @@ jspm_packages
 
 # Don't store generated content
 bundle.js
+
+**/yarn.lock
